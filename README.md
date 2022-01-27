@@ -6,3 +6,6 @@ Repositório de Front End em React
 
 #### Project Trybe Wallet
 - [Project Trybe Wallet](https://github.com/JSouza27/project-trybe-wallet)
+
+#### Project Web Chat
+- [project-webchat](git@github.com:JSouza27/project-webchat.git)
