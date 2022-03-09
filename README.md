@@ -9,3 +9,6 @@ Repositório de Front End em React
 
 #### Project Web Chat
 - [project-webchat](https://github.com/JSouza27/project-webchat)
+
+#### Crypto Index
+- [crypto-index](https://github.com/JSouza27/crypto-index-front-end)
