@@ -12,3 +12,6 @@ Repositório de Front End em React
 
 #### Crypto Index
 - [crypto-index](https://github.com/JSouza27/crypto-index-front-end)
+
+#### Hover Animations
+- [hover-animations](https://github.com/JSouza27/hover-animations)
